@@ -1,0 +1,1 @@
+java  -Dfile.encoding=US-ASCII -classpath "/Users/sammelnik/Desktop/Sam Melnik Code Examples/Java Example 1:/Users/sammelnik/Desktop/Sam Melnik Code Examples/Java Example 1/aima-core.jar" gameBoard
